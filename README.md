@@ -1,4 +1,1 @@
-# stepik-auto-tests-course
-homework
-
-I hate fast food
+здесь содержатсья авто тесты по курсу stepik
